@@ -24,7 +24,8 @@
     "jquery": "^3.6.0",
     "lite-server": "^2.6.1",
     "mongoose": "^5.13.0",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "webpack-pwa-manifest": "^4.3.0"
